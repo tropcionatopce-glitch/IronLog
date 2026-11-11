@@ -1,0 +1,8 @@
+IRONLOG – instalacja na telefonie Samsung
+
+1. Rozpakuj ZIP w telefonie (Moje pliki > Pobrane > plik ZIP > Rozpakuj).
+2. Aby aplikacja mogła być dodana do ekranu głównego i działać offline, pliki muszą być opublikowane pod adresem HTTPS. Samo otwarcie index.html z pamięci telefonu nie uruchomi instalacji PWA.
+3. Najprościej użyć usługi hostingu statycznego z telefonu, np. Netlify Drop: otwórz https://app.netlify.com/drop w Chrome i prześlij rozpakowany folder IRONLOG-PWA.
+4. Otwórz otrzymany adres strony w Chrome > menu ⋮ > Dodaj do ekranu głównego / Zainstaluj aplikację.
+
+Dane treningowe są przechowywane lokalnie w przeglądarce na tym urządzeniu. Eksportuj kopię JSON z zakładki Progres. Nie czyść danych witryny bez wykonania kopii.
